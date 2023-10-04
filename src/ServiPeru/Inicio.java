@@ -38,6 +38,9 @@ public class Inicio extends javax.swing.JPanel {
             jTextField2.setText(res.getString(2));
             jTextField3.setText(res.getString(3));
             jTextField4.setText(res.getString(4));
+            jTextField5.setText(res.getString(5));
+            jTextField6.setText(res.getString(6));
+            //agregando cambios
         }
         st.close();
     }
